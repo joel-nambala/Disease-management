@@ -1,0 +1,135 @@
+[
+  {
+    "name": "chicken pox",
+    "causativeAgent": "Chicken pox virus",
+    "modeOfTransmission": "By contact or through scabs",
+    "incubationPeriod": "12 - 20 days",
+    "symptoms": [
+      "Fever, headache and loss of appetite",
+      "Dark red-colored rash on the back and chest which spreads on the whole body",
+      "After few days these vesicles start drying up and scabs are formed",
+      "These scabs start falling (infective stage)"
+    ],
+    "precautions": [
+      "The patient should be kept in isolation",
+      "Clothings and utensils used by the patient should be sterilised",
+      "Fallen scabs should be collected and burnt"
+    ]
+  },
+
+  {
+    "name": "measles",
+    "causativeAgent": "Virus (Rubeola)",
+    "modeOfTransmission": "By air",
+    "incubationPeriod": "3 - 5 days",
+    "symptoms": [
+      "Common cold",
+      "Appearance of small white patches in mouth and throat",
+      "Appearance of rashes on the body"
+    ],
+    "precautions": [
+      "The patient should be kept in isolation",
+      "Cleanliness should be maintained",
+      "Antibiotics check only the secondary infections which can easily recur"
+    ]
+  },
+
+  {
+    "name": "poliomyelitis",
+    "causativeAgent": "Polio virus",
+    "modeOfTransmission": "Food and water",
+    "incubationPeriod": "7 - 14 days",
+    "symptoms": [
+      "The virus multiplies in intestinal cells and then reaches the brain through blood",
+      "It damages brain and nerves and causes infantile paralysis",
+      "Stiffness of neck, fever, loss of head support"
+    ],
+    "precautions": ["Polio vaccine drop"]
+  },
+
+  {
+    "name": "rabies",
+    "causativeAgent": "Rabies virus",
+    "modeOfTransmission": "Bit by a rabid dog",
+    "incubationPeriod": "10 days - 3 months",
+    "symptoms": [
+      "Severe headache and high fever",
+      "Painful contraction of muscles of throat and chest",
+      "Chocking and fear of water leading to death"
+    ],
+    "precautions": [
+      "Compulsory immunization of dogs",
+      "Killing rabid animals",
+      "Anti-rabies injections or oral doses are given to the person bitten by a rabid animal"
+    ]
+  },
+
+  {
+    "name": "hepatitis",
+    "causativeAgent": "Hepatitis B virus",
+    "modeOfTransmission": "Contaminated water",
+    "incubationPeriod": "15 - 160 days",
+    "symptoms": [
+      "Bodyache",
+      "Loss of appetite and nausea",
+      "Eyes and skins become yellowish, urine deep yellow in color",
+      "Enlarged liver"
+    ],
+    "precautions": [
+      "Proper hygiene is to be observed",
+      "Avoid taking fat rich substances",
+      "Hepatitis B vaccine is now available in India"
+    ]
+  },
+
+  {
+    "name": "typhoid",
+    "causativeAgent": "Salmonella typhi",
+    "modeOfTransmission": "Contaminated food and water",
+    "incubationPeriod": "1 - 3 weeks",
+    "symptoms": [
+      "continous fever, headache, slow pulse rate",
+      "Redish rashes appear on the belly",
+      "In extreme excess, ulcers may rapture resulting in death of the patient"
+    ],
+    "precautions": [
+      "Anti-typhoid innoculation should be given",
+      "Avoid taking exposed food and drinks",
+      "Proper sanitation and cleanliness should be maintained",
+      "Proper disposal of excetra of the patient",
+      "Antibiotics should be administered"
+    ]
+  },
+
+  {
+    "name": "tuberclosis",
+    "causativeAgent": "Mycobacterium tuberclosis",
+    "modeOfTransmission": "airborne-discharged through sputum, cough and sneeze of an infected person",
+    "incubationPeriod": "2 - 10 weeks",
+    "symptoms": [
+      "Persistent fever and coughing",
+      "Chest pain and blood comes out with sputum",
+      "General weakness"
+    ],
+    "precautions": [
+      "Isolation of patient to avoid spread of infection",
+      "BCG vaccination is given to children as a preventive measure",
+      "Living rooms should be airy, neat and with clean sorroundings",
+      "Antibiotics should be administered as treatment"
+    ]
+  },
+
+  {
+    "name": "cholera",
+    "causativeAgent": "Vibrio cholerae",
+    "modeOfTransmission": "Contaminated food and water",
+    "incubationPeriod": "6 hours - 3 days",
+    "symptoms": [
+      "Acute diarrohea and watery stool",
+      "Muscular cramps",
+      "Loss of minerals through urine",
+      "Dehydration leads to death"
+    ],
+    "precautions": ["Cholera vaccination should be given", ""]
+  }
+]

@@ -1,0 +1,121 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #099268;
+  color: #444;
+}
+
+a {
+  color: #444;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+#card {
+  margin: 5% auto;
+  background-color: #bee7be;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.main-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 20px;
+  height: 70vh;
+}
+
+.search-bar,
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-bar {
+  margin: 20px 0;
+}
+
+.footer {
+  margin-top: 20px;
+}
+
+.search-bar input {
+  border-radius: 35px;
+  padding: 6.5px 15px;
+  width: 21vw;
+  border: none;
+  min-width: 250px;
+}
+
+.search-bar input:focus {
+  outline: none;
+}
+
+.search-btn {
+  border-radius: 30px;
+  padding: 7px 14px;
+  transition: all 0.8s ease;
+  border: none;
+  margin-left: -50px;
+  margin-top: -4px;
+  background-color: #099268;
+}
+
+.search-btn:hover {
+  transform: scale(1.04);
+  background-color: #12b886;
+}
+
+/* .disease,
+.symptoms,
+.precautions {
+  height: 50vh;
+  overflow-y: scroll;
+} */
+
+.symptom-list,
+.prevention-list {
+  margin-left: 20px;
+}
+
+.symptom-list li,
+.prevention-list li {
+  list-style: none;
+}
+
+.symptom-list li i,
+.prevention-list li i {
+  color: orange;
+}
+
+.disease-name {
+  margin-bottom: 20px;
+}
+
+.symptoms h2,
+.precautions h2 {
+  margin-bottom: 20px;
+  font-size: 35px;
+}
+
+.symptoms img {
+  margin-bottom: 20px;
+}
+
+.disease p,
+.symptoms li,
+.precautions li {
+  font-size: 18px;
+}
+
+.footer p {
+  font-size: 18px;
+}
